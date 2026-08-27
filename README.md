@@ -1,2 +1,26 @@
-# world-happiness-record
-This is a project of applying basic data analysis on World Happiness Record happened from year 2015-2019. I use and practice my python programming and analysis skills such as doing data cleaning, data analysing as well as data visualization.
+
+# World Happiness Analysis
+
+An interactive data analysis dashboard exploring World Happiness Report data from 2015 to 2019.
+
+The project analyzes happiness scores and compares countries using different factors related to happiness.
+
+## Features
+
+- Analysis of data from 2015 to 2019
+- Year selection
+- Average happiness score
+- Top countries by happiness score
+- Bottom countries by happiness score
+- Happiness trends over time
+- Individual country analysis
+- Happiness factor pie chart
+- Statistical summary
+- Interactive dataset table
+
+## Technologies
+
+- Python
+- Pandas
+- Plotly
+- Streamlit
