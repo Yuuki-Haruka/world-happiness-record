@@ -5,6 +5,8 @@ An interactive data analysis dashboard exploring World Happiness Report data fro
 
 The project analyzes happiness scores and compares countries using different factors related to happiness.
 
+## Link: https://world-happiness-record.streamlit.app
+
 ## Features
 
 - Analysis of data from 2015 to 2019
